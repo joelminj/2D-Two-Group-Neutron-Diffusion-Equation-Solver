@@ -2,6 +2,9 @@
 
 This MATLAB script computes the steady-state neutron flux distribution in a 2D homogeneous rectangular reactor core using Two-Group Neutron Diffusion Theory. The continuous differential equations are discretized using the Finite Difference Method (FDM) and solved as a coupled system of linear algebraic equations.
 
+<img width="1400" height="600" alt="rp_activity_1" src="https://github.com/user-attachments/assets/767a30de-7870-48c7-a12e-34fbbcad682f" />
+
+
 ### 1. Governing Physical Equations
 
 The neutron energy spectrum is divided into two energy groups: Group 1 (Fast Neutrons) and Group 2 (Thermal Neutrons). We assume a fixed, independent source $S_{strength}$ that emits only fast neutrons. The steady-state coupled 2D diffusion equations are:
