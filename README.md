@@ -1,4 +1,4 @@
-# 2D-Two-Group-Neutron-Diffusion-Equation-Solver
+# 2D Two Group Neutron Diffusion Equation Solver
 
 This MATLAB script computes the steady-state neutron flux distribution in a 2D homogeneous rectangular reactor core using Two-Group Neutron Diffusion Theory. The continuous differential equations are discretized using the Finite Difference Method (FDM) and solved as a coupled system of linear algebraic equations.
 
